@@ -1,4 +1,4 @@
-# 📈 Stock Trend Tracker 🚀
+# 📈 StockPulse 🚀
 
 A simple, single-file full-stack Python 🐍 application that fetches and displays stock data! 💸
 
@@ -53,3 +53,4 @@ ALPHA_VANTAGE_API_KEY = "AF01F23GQ79IIP3X"
 ```
 
 If the application stops working or you hit a rate limit, you may need to get your own free API key from Alpha Vantage and replace the one in the file.
+
