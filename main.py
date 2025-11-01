@@ -1,16 +1,3 @@
-"""
-This is a single-file, full-stack Python application for the Stock Trend Tracker.
-It uses the Flask micro-framework to run a web server.
-
-TO RUN THIS:
-1. You need Python 3 installed.
-2. Install the required libraries (Flask and Requests):
-   pip install Flask requests
-3. Run this Python file from your terminal:
-   python stock_app_server.py
-4. Open your web browser and go to: http://localhost:5000
-"""
-
 from flask import Flask, jsonify, request, Response
 import requests # Used to make HTTP requests from our server to Alpha Vantage
 
